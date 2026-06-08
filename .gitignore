@@ -1,0 +1,9 @@
+# Секреты — НИКОГДА не коммитим
+ключ.txt
+*.key
+.env
+
+# Системное
+Thumbs.db
+desktop.ini
+.DS_Store
